@@ -1,4 +1,4 @@
-# [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
+# VocaDB Upptime (unofficial)
 
 [![Uptime CI](https://github.com/Hans5958/VocaDB-Upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Hans5958/VocaDB-Upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Hans5958/VocaDB-Upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Hans5958/VocaDB-Upptime/actions?query=workflow%3A%22Response+Time+CI%22)
