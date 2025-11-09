@@ -4,19 +4,19 @@
     "url": "https://vocadb.net",
     "icon": "https://icons.duckduckgo.com/ip3/vocadb.net.ico",
     "slug": "voca-db",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 168,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.07%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 170,
+    "timeDay": 202,
+    "timeWeek": 170,
+    "timeMonth": 170,
+    "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-11-09": 0
+      "2025-11-09": 13
     }
   },
   {
