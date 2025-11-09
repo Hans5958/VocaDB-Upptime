@@ -4,18 +4,20 @@
     "url": "https://vocadb.net",
     "icon": "https://icons.duckduckgo.com/ip3/vocadb.net.ico",
     "slug": "voca-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 71,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
-    "dailyMinutesDown": {}
+    "time": 155,
+    "timeDay": 168,
+    "timeWeek": 155,
+    "timeMonth": 155,
+    "timeYear": 155,
+    "dailyMinutesDown": {
+      "2025-11-09": 0
+    }
   },
   {
     "name": "UtaiteDB",
