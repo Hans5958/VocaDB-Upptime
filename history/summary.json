@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vocadb.net.ico",
     "slug": "voca-db",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 159,
-    "timeDay": 65,
-    "timeWeek": 164,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 157,
+    "timeDay": 125,
+    "timeWeek": 170,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2025-11-09": 13
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 544,
-    "timeDay": 771,
-    "timeWeek": 566,
-    "timeMonth": 544,
-    "timeYear": 544,
+    "time": 517,
+    "timeDay": 193,
+    "timeWeek": 476,
+    "timeMonth": 517,
+    "timeYear": 517,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 551,
-    "timeDay": 749,
-    "timeWeek": 536,
-    "timeMonth": 551,
-    "timeYear": 551,
+    "time": 528,
+    "timeDay": 253,
+    "timeWeek": 450,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {}
   }
 ]
