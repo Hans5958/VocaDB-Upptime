@@ -4,19 +4,19 @@
     "url": "https://vocadb.net",
     "icon": "https://icons.duckduckgo.com/ip3/vocadb.net.ico",
     "slug": "voca-db",
-    "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "95.87%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 142,
-    "timeDay": 83,
-    "timeWeek": 113,
-    "timeMonth": 142,
-    "timeYear": 142,
+    "status": "up",
+    "uptime": "99.42%",
+    "uptimeDay": "92.73%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 165,
+    "timeDay": 192,
+    "timeWeek": 160,
+    "timeMonth": 165,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-11-18": 59,
+      "2025-11-18": 104,
       "2025-11-09": 13
     }
   },
@@ -26,18 +26,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/utaitedb.net.ico",
     "slug": "utaite-db",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "94.22%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptime": "99.36%",
+    "uptimeDay": "91.07%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 1443,
     "timeDay": 3650,
     "timeWeek": 2028,
     "timeMonth": 1443,
     "timeYear": 1443,
     "dailyMinutesDown": {
-      "2025-11-18": 83
+      "2025-11-18": 128
     }
   },
   {
@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/touhoudb.com.ico",
     "slug": "touhou-db",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptime": "99.45%",
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 492,
     "timeDay": 412,
     "timeWeek": 425,
     "timeMonth": 492,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2025-11-18": 66
+      "2025-11-18": 111
     }
   }
 ]
