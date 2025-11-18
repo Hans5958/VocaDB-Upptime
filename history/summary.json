@@ -24,19 +24,19 @@
     "url": "https://utaitedb.net",
     "icon": "https://icons.duckduckgo.com/ip3/utaitedb.net.ico",
     "slug": "utaite-db",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1710,
-    "timeDay": 10202,
-    "timeWeek": 2854,
-    "timeMonth": 1710,
-    "timeYear": 1710,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 1641,
+    "timeDay": 6981,
+    "timeWeek": 2597,
+    "timeMonth": 1641,
+    "timeYear": 1641,
     "dailyMinutesDown": {
-      "2025-11-18": 1
+      "2025-11-18": 24
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/touhoudb.com.ico",
     "slug": "touhou-db",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.88%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 493,
     "timeDay": 272,
     "timeWeek": 408,
     "timeMonth": 493,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 24
     }
   }
 ]
