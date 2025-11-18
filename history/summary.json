@@ -24,25 +24,27 @@
     "url": "https://utaitedb.net",
     "icon": "https://icons.duckduckgo.com/ip3/utaitedb.net.ico",
     "slug": "utaite-db",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 505,
-    "timeDay": 611,
-    "timeWeek": 435,
-    "timeMonth": 505,
-    "timeYear": 505,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1710,
+    "timeDay": 10202,
+    "timeWeek": 2854,
+    "timeMonth": 1710,
+    "timeYear": 1710,
+    "dailyMinutesDown": {
+      "2025-11-18": 1
+    }
   },
   {
     "name": "TouhouDB",
     "url": "https://touhoudb.com",
     "icon": "https://icons.duckduckgo.com/ip3/touhoudb.com.ico",
     "slug": "touhou-db",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +55,8 @@
     "timeWeek": 408,
     "timeMonth": 493,
     "timeYear": 493,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
