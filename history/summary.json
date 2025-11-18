@@ -45,19 +45,19 @@
     "url": "https://touhoudb.com",
     "icon": "https://icons.duckduckgo.com/ip3/touhoudb.com.ico",
     "slug": "touhou-db",
-    "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "90.68%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
-    "time": 492,
-    "timeDay": 412,
-    "timeWeek": 425,
-    "timeMonth": 492,
-    "timeYear": 492,
+    "status": "up",
+    "uptime": "99.27%",
+    "uptimeDay": "89.76%",
+    "uptimeWeek": "98.54%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.27%",
+    "time": 507,
+    "timeDay": 498,
+    "timeWeek": 458,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {
-      "2025-11-18": 134
+      "2025-11-18": 147
     }
   }
 ]
