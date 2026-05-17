@@ -1,7 +1,7 @@
 url: https://vocadb.net
-status: up
-code: 200
-responseTime: 112
-lastUpdated: 2026-05-16T23:40:38.501Z
+status: down
+code: 503
+responseTime: 456
+lastUpdated: 2026-05-17T22:36:06.487Z
 startTime: 2025-11-04T13:00:27.334Z
 generator: Upptime <https://github.com/upptime/upptime>
