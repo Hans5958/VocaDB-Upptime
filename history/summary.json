@@ -32,17 +32,17 @@
     "url": "https://utaitedb.net",
     "icon": "https://icons.duckduckgo.com/ip3/utaitedb.net.ico",
     "slug": "utaite-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 535,
-    "timeDay": 581,
-    "timeWeek": 455,
-    "timeMonth": 466,
-    "timeYear": 486,
+    "time": 583,
+    "timeDay": 10090,
+    "timeWeek": 2848,
+    "timeMonth": 1064,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2025-12-25": 142,
       "2025-12-24": 319,
@@ -51,7 +51,8 @@
       "2026-01-31": 35,
       "2026-02-01": 152,
       "2026-04-30": 93,
-      "2026-07-05": 57
+      "2026-07-05": 57,
+      "2026-11-19": 1
     }
   },
   {
@@ -59,22 +60,23 @@
     "url": "https://touhoudb.com",
     "icon": "https://icons.duckduckgo.com/ip3/touhoudb.com.ico",
     "slug": "touhou-db",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 576,
-    "timeDay": 579,
-    "timeWeek": 381,
-    "timeMonth": 364,
-    "timeYear": 581,
+    "time": 625,
+    "timeDay": 10182,
+    "timeWeek": 2807,
+    "timeMonth": 970,
+    "timeYear": 632,
     "dailyMinutesDown": {
       "2025-12-03": 11,
       "2025-12-25": 142,
       "2025-12-24": 319,
-      "2026-01-10": 106
+      "2026-01-10": 106,
+      "2026-11-19": 0
     }
   }
 ]
